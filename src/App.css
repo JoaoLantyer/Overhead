@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background-color: #282c34;
+}
+
+.App-header {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Overhead{
+  border-radius: 100vh;
+  border-style:solid;
+  border-color: black;
+  border-width: 5px;
+
+  margin: 0px 20px;
+}
+
+.Overhead:hover{
+  border-color: red;
+}
+
+.Controls{
+  margin-top: auto;
+}

@@ -1,0 +1,5 @@
+Grid-like map on top of the overhead buttons with a character represented by its overhead symbol, that you can move around.
+
+Attacks might come from outside the screen and mechanics might happen in the map for you to dodge.
+
+The goal is to survive the longest.
